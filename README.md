@@ -2,8 +2,6 @@
 
 The Snake game in the browser - built using JavaScript, HTML and CSS.
 
-[Project Screenshot or GIF]
-
 ## Getting Started
 
 ### Usage
